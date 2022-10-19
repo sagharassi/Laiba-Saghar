@@ -3,8 +3,8 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//© 2022 Saghar Awan
+//Thank you to Laiba Shehzadi
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
@@ -17,7 +17,7 @@
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
+//description and tag me on Awan, 
 //thank you🦄
 //════════════════════════════//
 
@@ -64,9 +64,9 @@ global.location = "Saghar Science Academy" //ur location
 global.owner = ['923448270921']
 global.ownertag = '923448270921' //ur tag number
 global.botname = 'Laiba Saghar' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.linkz = "www.sagharscienceacademy.blogspot.com" //your theme url which will be displayed on whatsapp
+global.websitex = "www.sagharscienceacademy.blogspot.com" //ur website to be displayed
+global.botscript = 'www.sagharscienceacademy.blogspot.com' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Laiba Shehzadi" //ur sticker watermark packname
@@ -106,9 +106,9 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'This Feature Is Only For Laiba and Saghar!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    owner: 'This Feature Is Only For Laiba And Saghar!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
