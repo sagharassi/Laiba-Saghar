@@ -4,7 +4,7 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 Saghar Awan
-//Thank you to Laiba Shehzadi
+//Thank you to Awan Zada 🤞
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923448270921'] //ur owner number
-global.ownername = "Laiba Shehzadi" //ur owner name
+global.ownername = "Awan Zada 🤞" //ur owner name
 global.ytname = "Saghar Awan" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Saghar Science Academy" //ur location
@@ -63,13 +63,13 @@ global.location = "Saghar Science Academy" //ur location
 //bot bomdy 
 global.owner = ['923448270921']
 global.ownertag = '923448270921' //ur tag number
-global.botname = 'Laiba Saghar' //ur bot name
+global.botname = 'Awan Zada 🤞' //ur bot name
 global.linkz = "www.sagharscienceacademy.blogspot.com" //your theme url which will be displayed on whatsapp
 global.websitex = "www.sagharscienceacademy.blogspot.com" //ur website to be displayed
 global.botscript = 'www.sagharscienceacademy.blogspot.com' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Laiba Shehzadi" //ur sticker watermark packname
+global.packname = "Awan Zada 🤞" //ur sticker watermark packname
 global.author = "Saghar Awan" //ur sticker watermark author
 
 //Bot theme media
@@ -106,9 +106,9 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Laiba and Saghar!',
+    admin: 'This Feature Is Only For Saghar!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Laiba And Saghar!',
+    owner: 'This Feature Is Only For Saghar!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
